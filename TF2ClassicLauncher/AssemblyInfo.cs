@@ -2,7 +2,6 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: Extension]
 [assembly: AssemblyTitle("Team Fortress 2 Classic Launcher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]

@@ -1,0 +1,9 @@
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\TF2ClassicLauncher.csprojAssemblyReference.cache
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\TF2ClassicLauncher.csproj.GenerateResource.cache
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\TF2ClassicLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\bin\Debug\TF2ClassicLauncher.exe
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\bin\Debug\TF2ClassicLauncher.pdb
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\TF2ClassicLauncher.exe
+C:\Users\Kerim\Desktop\TF2C-Launcher-Decompile\TF2ClassicLauncher\obj\Debug\TF2ClassicLauncher.pdb
